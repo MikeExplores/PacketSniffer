@@ -15,7 +15,7 @@ import pandas as pd
 from scapy.layers.inet import UDP, TCP
 from scapy.layers.l2 import Ether
 
-from CMIT235_Package import CMIT235_Tools as cm
+import CMIT235_Tools as cm
 from multipledispatch import dispatch
 
 

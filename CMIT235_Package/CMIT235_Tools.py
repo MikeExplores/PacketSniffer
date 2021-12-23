@@ -7,7 +7,7 @@ mySubList3 = [[2, 2, 3, 4, 5, 6, 6, 5, 4, 3, 2, 1], [-1, -3, 44, 22, 4, 7, 7, 8,
 
 # Week 3 Constants
 port = 135
-pcap = 'cmit235_network_data.pcapng'
+pcap = 'CMIT235_Package\cmit235_network_data.pcapng'
 spoofed_mac = "aa:bb:cc:dd:ee:ff"
 
 # Week 4 Constants

@@ -8,7 +8,7 @@
 # Description A7 - This project utilizes advanced functions to increase functionality of existing code.
 
 import numpy as np
-from CMIT235_Package.NetworkCheck import NetworkCheck
+from NetworkCheck import NetworkCheck
 
 
 # Inherit NewNetworkCheck from NetworkCheck Parent Class

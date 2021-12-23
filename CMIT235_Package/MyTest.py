@@ -8,10 +8,10 @@ import numpy as np
 from scapy.all import *
 import logging
 
-from CMIT235_Package import CMIT235_Tools as cm
-from CMIT235_Package.AddedNetworkCheck import AddedNetworkCheck
-from CMIT235_Package.NetworkCheck import NetworkCheck
-from CMIT235_Package.NewNetworkCheck import NewNetworkCheck
+import CMIT235_Tools as cm
+from AddedNetworkCheck import AddedNetworkCheck
+from NetworkCheck import NetworkCheck
+from NewNetworkCheck import NewNetworkCheck
 
 # Week 6 - Log file and info statement
 

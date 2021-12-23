@@ -9,9 +9,9 @@
 import numpy as np
 from scapy.layers.inet import TCP
 
-from CMIT235_Package.NewNetworkCheck import NewNetworkCheck
-from CMIT235_Package.NetworkCheck import NetworkCheck
-
+from NewNetworkCheck import NewNetworkCheck
+from NetworkCheck import NetworkCheck
+ 
 
 # Inherit AddedNetworkCheck from NewNetworkCheck Parent Class
 class AddedNetworkCheck(NewNetworkCheck):
